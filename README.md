@@ -7,7 +7,7 @@
 :spades: Member at CyberLabs, Infosec Division, IIT ISM Dhanbad<br>
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-%20-yellowgreen)](mailto:sumit.gupta.srpg2211@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-gupta-41a4a0227/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](your-twitter-url)
+[![Gmail](https://img.shields.io/badge/Gmail-%20-yellowgreen)](mailto:sumit.gupta.srpg2211@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-gupta-41a4a0227/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/SRPG_2211)
 
 # 💻 Tech Stack:
 ## Languages:
