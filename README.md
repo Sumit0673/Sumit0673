@@ -41,12 +41,12 @@
 ## Applied Mathematics:
 ![Modern Algebra](https://img.shields.io/badge/Modern_Algebra-800080?style=for-the-badge&logo=abstract&logoColor=white)
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-007ACC?style=for-the-badge&logo=matrix&logoColor=white)
-![Discrete Mathematics](https://img.shields.io/badge/Discrete_Mathematics-228B22?style=for-the-badge&logo=logic&logoColor=white)
-![Differential Calculus](https://img.shields.io/badge/Differential_Calculus-FF4500?style=for-the-badge&logo=calculus&logoColor=white)
+![Finite Field Theory](https://img.shields.io/badge/Finite_Field_Theory-556B2F?style=for-the-badge&logo=fields&logoColor=white)
 ![Number Theory](https://img.shields.io/badge/Number_Theory-9932CC?style=for-the-badge&logo=numbers&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-0A0A23?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Discrete Mathematics](https://img.shields.io/badge/Discrete_Mathematics-228B22?style=for-the-badge&logo=logic&logoColor=white)
+![Differential Calculus](https://img.shields.io/badge/Differential_Calculus-FF4500?style=for-the-badge&logo=calculus&logoColor=white)
 ![Theory of Computation](https://img.shields.io/badge/Theory_of_Computation-4682B4?style=for-the-badge&logo=automata&logoColor=white)
-![Finite Field Theory](https://img.shields.io/badge/Finite_Field_Theory-556B2F?style=for-the-badge&logo=fields&logoColor=white)
 ![Optimization Techniques](https://img.shields.io/badge/Optimization_Techniques-FF8C00?style=for-the-badge&logo=chartbar&logoColor=white)
 ![Advanced Numerical Methods](https://img.shields.io/badge/Advanced_Numerical_Methods-1E90FF?style=for-the-badge&logo=scipy&logoColor=white)
 
